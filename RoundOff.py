@@ -8,6 +8,7 @@ num = float(input("Enter the number: "))
 #
 # print( "Ceil:",Ceil,"\nfloor:", floor, "\nroundoff:", roundoff,)
 
+print(f"{1000:,.2f}")
 
 sqroot=math.sqrt(num)
 square=num**2
